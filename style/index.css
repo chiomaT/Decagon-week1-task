@@ -34,7 +34,7 @@ body
 /*CHARACTER CONTAINER STYLE*/
 .character-container {
   display: grid;
-  grid-template-columns:repeat(auto-fit, minmax(400px, auto));
+  grid-template-columns:repeat(auto-fit, minmax(350px, auto));
   grid-gap:30px;
   justify-content: center;
   align-content: center;

@@ -13,16 +13,16 @@ const api = async () => {
 
 //create the images array
    let images =[
-    "/week-1-node-010-chiomaT/style/images/img1.jpg",
-    "/week-1-node-010-chiomaT/style/images/img2.jpg",
-    "/week-1-node-010-chiomaT/style/images/img3.jpg",
-    "/week-1-node-010-chiomaT/style/images/img4.png", 
-    "/week-1-node-010-chiomaT/style/images/img5.png", 
-    "/week-1-node-010-chiomaT/style/images/img6.png", 
-    "/week-1-node-010-chiomaT/style/images/img7.jpg", 
-    "/week-1-node-010-chiomaT/style/images/img8.png", 
-    "/week-1-node-010-chiomaT/style/images/img9.png", 
-    "/week-1-node-010-chiomaT/style/images/img10.png"
+    "style/images/img1.jpg",
+    "style/images/img2.jpg",
+    "style/images/img3.jpg",
+    "style/images/img4.png", 
+    "style/images/img5.png", 
+    "style/images/img6.png", 
+    "style/images/img7.jpg", 
+    "style/images/img8.png", 
+    "style/images/img9.png", 
+    "style/images/img10.png"
 ]
 
 //declare an empty variable for the character properties
